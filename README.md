@@ -128,4 +128,4 @@ The project demonstrates how SQL can transform raw e-commerce data into structur
 
 ## Author
 
-Anis Mo
+anis-mo
