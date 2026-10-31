@@ -1,8 +1,8 @@
-# 📈Ecommerce Sales Analysis Using MySQL
+# 📈E-commerce Sales Analysis Using MySQL
 
 ## 📌Project Overview
 
-This project analyzes an ecommerce sales dataset using MYSQL. The covers the complete data analysis workflow, including database creation, data cleaning, and exploration data analysis (EDA) to uncover valuable business insights.
+This project analyzes an e-commerce sales dataset using MySQL. The covers the complete data analysis workflow, including database creation, data cleaning, and exploration data analysis (EDA) to uncover valuable business insights.
 
 ---
 
