@@ -12,7 +12,7 @@ This project analyzes an ecommerce sales dataset using MYSQL. The covers the com
 - Analyze sales performance.
 - Understand customer purchasing behavior.
 - Identify top-performing products and regions.
-- Practice SQL using real-world buiness scenarios
+- Practice SQL using real-world business scenarios
 
 ---
 
@@ -26,7 +26,7 @@ This project analyzes an ecommerce sales dataset using MYSQL. The covers the com
 - unit_price
 - discount
 - payment_method
-- delievery_days
+- delivery_days
 - customer_rating
 - revenue
 
@@ -58,7 +58,7 @@ The analysis answered business questions such as :
 - Top product categories by revenue
 - Top customers by revenue
 - Top regions by revenue
-- Runing (cumulative) revenue over time
+- Running (cumulative) revenue over time
 - Revenue before and after discounts
 - Customers with revenue above the overall average
 - Regions with average revenue above the global average 
@@ -72,9 +72,9 @@ The analysis answered business questions such as :
 - WHERE 
 - GROUP BY
 - ORDER BY
-- Aggregate Fuctions 
+- Aggregate Functions 
 - CASE
-- CTE (Common Table Expressions)
+- CTEs (Common Table Expressions)
 - Subqueries
 - Window Functions 
   - RANK()
