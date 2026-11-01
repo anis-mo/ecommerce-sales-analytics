@@ -126,6 +126,16 @@ The project demonstrates how SQL can transform raw e-commerce data into structur
 
 ---
 
+📚 Data Source & License
+
+- Dataset: E-commerce Sales Dataset
+- Source: Kaggle
+- License: CC0: Public Domain
+
+The dataset is released under the CC0 Public Domain dedication, allowing it to be used, modified, and redistributed without requiring attribution under the license.
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/hassanboukar/ecommerce-sales-analytics-5000-csv)
+
 ## Author
 
 anis-mo
